@@ -1,6 +1,6 @@
 try Linux signal handling in Java
 
-Tested Ok with Oracle Java 8 and OpenJDK 11.
+Tested Ok with Oracle Java 8 and OpenJDK 11 (add/switch JDK in IDEA: File>Project Structure).
 
 List signals: `kill -l`
 
